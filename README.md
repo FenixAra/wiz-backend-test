@@ -10,7 +10,9 @@ It should provide the following features:
 1. Create a schedule
 2. Update a schedule
 3. Get list of schedules given from port, to port and date. It can a combination two schedules as well. If to port is part of the schedule then it should also be included.
-Examples: 
+
+Examples:
+
 If the from port is Chennai and Mumbai
 It should list *schedule 1 + schedule 3* and *schedule 2+schedule 3*
 
